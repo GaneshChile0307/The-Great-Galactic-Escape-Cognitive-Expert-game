@@ -1,0 +1,2 @@
+# The-Great-Galactic-Escape---Cognitive-Expert-game
+A single agent game, where the agent learns from its previous runs using Python on the JetBrains PyCharm IDE. · It interprets and makes decisions back on the learning just like a human brain does. · The agent travels through space, visits planets and returns to planet Earth in minimum number of steps gradually over multiple runs. Thus, exhibiting Human-like Cognitive behavior.
